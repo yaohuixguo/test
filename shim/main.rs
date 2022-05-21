@@ -1,3 +1,4 @@
 fn main() {
-    let mut a = 5;
+    let g = 6;
+    n = 0;
 }
