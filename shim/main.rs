@@ -1,3 +1,5 @@
 fn main() {
-    let mut a = 5;
+    
+    let x = 12;
+    y = 16;
 }
